@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc232794-bf0e-4815-b575-3285ab45a793" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/azureSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_hot100.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode热题前100/链表/hot100K个一组翻转链表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode热题前100/链表/hot100LRU缓存.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode热题前100/链表/hot100两两交换链表中的节点.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode热题前100/链表/hot100两数相加.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode热题前100/链表/hot100删除链表的倒数第N个结点.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode热题前100/链表/hot100反转链表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode热题前100/链表/hot100合并K个升序链表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode热题前100/链表/hot100合并两个有序链表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode热题前100/链表/hot100回文链表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode热题前100/链表/hot100排序链表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode热题前100/链表/hot100环形链表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode热题前100/链表/hot100环形链表II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode热题前100/链表/hot100相交链表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode热题前100/链表/hot100随机链表的复制.md" afterDir="false" />
-    </list>
+    <list default="true" id="fc232794-bf0e-4815-b575-3285ab45a793" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/leetcode热题前100" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/leetcode热题前100/链表" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -100,8 +75,16 @@
       <option name="presentableId" value="Default" />
       <updated>1731050324846</updated>
       <workItem from="1731050328163" duration="568000" />
-      <workItem from="1731050914206" duration="380000" />
+      <workItem from="1731050914206" duration="442000" />
     </task>
+    <task id="LOCAL-00001" summary="add:leetcode hot100之链表实现">
+      <created>1731051329255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731051329255</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add:leetcode hot100之链表实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="add:leetcode hot100之链表实现" />
   </component>
 </project>
